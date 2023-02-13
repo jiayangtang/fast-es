@@ -1,8 +1,0 @@
-{
-"title":"",
-"content":"",
-"imageUrl":"",
-"targetUrl":"",
-"version":"",
-"fileUrl":""
-}
