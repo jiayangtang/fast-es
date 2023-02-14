@@ -8,8 +8,8 @@ Fast-ES是一款操作elasticsearch的桌面客户端，通过简单便捷的可
 -快捷操作，可视化界面一目了然，减少查找、编写脚本时间
 -功能全面，包含数据操作、数据建模、管理监控三大基础功能，另有高级操作扩展补充，覆盖绝大多数elasticsearch使用场景
 ## 3、安装步骤
-## 4、使用说明
-详见：[使用说明](https://github.com/duzhimin/fast-es/blob/main/docs/instructions.md)
+## 4、功能介绍
+详见：[功能介绍](https://github.com/duzhimin/fast-es/blob/main/docs/instructions.md)
 ## 5、问题反馈
 ## 6、更新日志
 ## 7、未来规划
