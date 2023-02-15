@@ -10,7 +10,7 @@ Fast-ES是一款操作elasticsearch的桌面客户端，通过简单便捷的图
 ## 3、功能介绍
 详见：[功能介绍](https://github.com/duzhimin/fast-es/blob/main/docs/instructions.md)
 ## 4、更新日志
-详见：[更新日志](https://github.com/duzhimin/fast-es/blob/main/docs/update-log)
+详见：[更新日志](https://github.com/duzhimin/fast-es/releases)
 ## 5、未来规划
 详见：[未来规划](https://github.com/duzhimin/fast-es/blob/main/docs/future-plan)
 ## 6、问题反馈
