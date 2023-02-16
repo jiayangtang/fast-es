@@ -21,3 +21,4 @@ Fast-ES is a desktop client for elasticsearch under Windows. With Fast-ES, you c
 详见：[未来规划](https://github.com/duzhimin/fast-es/blob/main/docs/future-plan)
 ## 6、问题反馈
 <img src="https://user-images.githubusercontent.com/59269223/218623247-8ae3cafb-8b04-48e1-b513-24ad87b63906.jpg" width="30%">
+<img src="docs\\image\\group.jpg" width="30%">
